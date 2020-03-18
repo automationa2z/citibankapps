@@ -1,0 +1,7 @@
+#ignore all idea files
+.idea
+#ignore all files in the target folder
+target/**
+#ignore all .iml files
+**.iml
+
